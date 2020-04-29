@@ -1,2 +1,3 @@
-## Tutorial Scripts Composer
-	https://getcomposer.org/doc/articles/scripts.md
+# Documentação do componente
+
+Este componente é SUPIMPA!!
